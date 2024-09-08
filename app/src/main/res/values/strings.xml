@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StarMusicApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="ng_k">Đăng Ký</string>
+    <string name="ng_nh_p">Đăng Nhập</string>
+    <string name="c_t_i_kho_n_ng_nh_p_ngay">Đã Có Tài Khoản? Đăng Nhập Ngay!</string>
+    <string name="ch_a_c_t_i_kho_n_ng_k_ngay">Chưa có tài khoản? Đăng Ký Ngay!!</string>
+    <string name="nh_p_l_i_password">Nhập lại password</string>
+    <string name="nh_p_s_i_n_tho_i">Nhập Số Điện Thoại</string>
+    <string name="kh_nng_t_m_th_y_b_i_h_t_n_y">Khônng tìm thấy bài hát này :(</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

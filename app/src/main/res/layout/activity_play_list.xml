@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PlayListActivity">
+
+<!--    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/myListView"
+        android:choiceMode="singleChoice"
+        android:listSelector="@android:color/darker_gray"/>-->
+
+<!--    <com.example.jean.jcplayer.view.JcPlayerView
+        android:layout_marginTop="550dp"
+        android:id="@+id/jcplayer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerView"
+        android:scrollbars="vertical"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:menu="@menu/menu_bar"
+        android:background="@drawable/menu"
+        app:itemTextColor="@drawable/menu2"
+        app:itemIconTint="@drawable/menu2"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

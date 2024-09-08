@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "423359422588",
+    "firebase_url": "https://uploadmusicapp-default-rtdb.firebaseio.com",
+    "project_id": "uploadmusicapp",
+    "storage_bucket": "uploadmusicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423359422588:android:645f8d8a2a24753977a9f9",
+        "android_client_info": {
+          "package_name": "com.example.starmusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyD1OjlKVrYb5Jb3SXpl2WgKnwncnmir4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423359422588:android:29ea732a4a15020f77a9f9",
+        "android_client_info": {
+          "package_name": "com.example.upload20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyD1OjlKVrYb5Jb3SXpl2WgKnwncnmir4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
